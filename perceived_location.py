@@ -5,13 +5,6 @@ This code allows you to move a simple object left and right and then give
 you the end location of the object. This might be useful for perceived loc
 measure in psychophysical testing.
 '''
-# Following https://www.youtube.com/watch?v=K5F-aGDIYaM&list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq&index=1
-# AND https://www.youtube.com/watch?v=SLw57D-GWtc
-
-
-#cd X:\Hassan\Python\random_codes
-cd C:\Users\Hassan\Documents\Personal_projects\python\random_codes
-
 
 import pygame
 from pygame_helper import print_at
